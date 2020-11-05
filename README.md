@@ -1,5 +1,10 @@
 # Galaxy Smash Pong
 
+## The Game
+<img src="./Splash Screen.PNG" width="500">
+<img src="./Game.PNG" width="500">
+<img src="./Player 2 Wins.PNG" width="500">
+
 ## How to Play
 
 - Press `ENTER` to start the game.
@@ -12,6 +17,3 @@
 ## Dependencies
  - `Java`
  - `Java Swing`
- 
- ## How it looks
- 
