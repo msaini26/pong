@@ -1,5 +1,8 @@
 # Galaxy Smash Pong
 
+## Introduction
+Ready to test your gaming skills? Try your hand at Galaxy Smash Pong and see how far you can go. Up, up, and away! Good luck and have fun!
+
 ## The Game
 <img src="./Splash Screen.PNG" width="500">
 <img src="./Game.PNG" width="500">
